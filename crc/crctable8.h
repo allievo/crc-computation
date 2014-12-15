@@ -18,7 +18,7 @@
 /*    'crctable8.h' was created with the following model parameters:	            */
 /*                                                               					*/
 /*    Width   		: 4 bytes.                                     					*/
-/*    Poly    		: 0x04C11DB7L                                 					*/
+/*    Poly    		: 0x04C11DB7L                                					*/
 /*    Reverse 		: FALSE                                        					*/
 /*    Table lenght	: 256 byte														*/
 /************************************************************************************/
